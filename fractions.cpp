@@ -70,21 +70,21 @@ public:
 
 int main()
 {
-    Fraction f1(8,9);
-    Fraction f2(10,4);
+    Fraction f1(12,4);
+    Fraction f2(9,2);
     Fraction f3;
 
-    f3 = f1.Sum(f2); // Result: 3/4
+    f3 = f1.Sum(f2); // Result: 60/8
     f3.print();
 
-    //f3 = f1.Difference(f2); // Result: 1/4
-    //f3.print();
-
-    f3 = f1.Product(f2); // Result: 1/8
+    f3 = f1.Difference(f2); // Result: -12/8
     f3.print();
 
-    //f3 = f1.Division(f2); // Result: 2
-    //f3.print();
+    f3 = f1.Product(f2); // Result: 108/8
+    f3.print();
+
+    f3 = f1.Division(f2); // Result: 24/36
+    f3.print();
 
     return 0;
 }
