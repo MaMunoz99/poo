@@ -13,7 +13,7 @@ Este proyecto muestra los resultados de operaciones básicas aplicadas en fracci
 
 ### Como ejecutamos el código
 
-1.- Tenemos que realizar un clone del repositorio en el que nos encontramos.
-2.- Abrir la carpeta donde se ejecutó él clone del repositorio con Visual Studio Code.
-3.- Ya dentro de visual studio code abrir el archivo llamado "fractions.cpp".
-4.- Como cuarto y final ejecutar el código ya sea con la tecla rápida F5 o si se tiene descargada la estación de "C/C++ Compile Run" F6.
+* 1.- Tenemos que realizar un clone del repositorio en el que nos encontramos.
+* 2.- Abrir la carpeta donde se ejecutó él clone del repositorio con Visual Studio Code.
+* 3.- Ya dentro de visual studio code abrir el archivo llamado "fractions.cpp".
+* 4.- Como cuarto y final ejecutar el código ya sea con la tecla rápida F5 o si se tiene descargada la estación de "C/C++ Compile Run" F6.
